@@ -115,7 +115,7 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        item_data = await Http.GetFromJsonAsync<ItemData[]>("sample-data/item.json");
+        item_data = await Http.GetFromJsonAsync<ItemData[]>("data/item.json");
     }
 
     public class ItemData

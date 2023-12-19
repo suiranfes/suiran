@@ -1,0 +1,34 @@
+[
+  {
+    "itemName": "焼きそば",
+    "itemPrice": 300
+  },
+  {
+    "itemName": "フランクフルト",
+    "itemPrice": 200
+  },
+  {
+    "itemName": "チュロス",
+    "itemPrice": 200
+  },
+  {
+    "itemName": "アイスチョコバナナ",
+    "itemPrice": 300
+  },
+  {
+    "itemName": "つぶつぶアイス",
+    "itemPrice": 350
+  },
+  {
+    "itemName": "かき氷",
+    "itemPrice": 200
+  },
+  {
+    "itemName": "ドリンク",
+    "itemPrice": 300
+  },
+  {
+    "itemName": "ペットボトル",
+    "itemPrice": 150
+  }
+]
